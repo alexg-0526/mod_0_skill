@@ -1,0 +1,9 @@
+var food = "Deep dish pizza"
+var isDElicious = true
+food = Deep dish
+var num2 = 26
+var num7 = 2
+quotient - num7 / num2
+songs = ["Living on a Prayer", "Blinding Lights", "Chandelier", "sucker"]
+songs. shift
+food. count ("Deep dish")
