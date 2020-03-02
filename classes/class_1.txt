@@ -1,0 +1,13 @@
+Class: Grill
+
+Attributes:
+1. currentCapacity (Integer)
+2. totalCapacity (Integer)
+3. hot (boolean)
+4. utensils(array)
+
+Methods:
+1. cleanGrill (adds room to total capacity)
+2. serveFood (subtracts currentCapacity from totalCapacity)
+3.burnFood (shows that the grill is hot which is a true statement)
+4.cleanSpatula (adds to the array of utensils)
