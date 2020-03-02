@@ -1,0 +1,13 @@
+Object: Order Mistake
+
+Attributes:
+1.totalCost: 120.72
+2.customerSeated: 5
+3.amountTipped: 5.00
+4.itemsOrdered: ["noodles", "chicken pesto", "ribs", "steak", "chocolate cake"]
+
+Methods:
+1. incorrectOrder: adds wait time for customerSeated
+2. switchItem: change "ribs" to "chicken parm"
+3. foodComplaint: reduces amountTipped by 2%
+4. waitTime: gives 15% discount on totalCost
