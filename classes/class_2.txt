@@ -1,0 +1,13 @@
+Class: Customers
+
+Attributes:
+1.totalCost (float)
+2.customerSeated (integer)
+3.amountTipped (array)
+4.itemsOrdered (array)
+
+Methods:
+1.forgetOrders(decreases tip amount)
+2.dropFood (subtracts from itemsOrdered)
+3.askForDesert (adds to totalCost)
+4.tablesFull (decreases amount of customerSeated)
