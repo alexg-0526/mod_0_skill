@@ -1,0 +1,13 @@
+Object: Chinese Food
+
+Attributes:
+1. customerAddress: "1234 Logan st.""
+2. foodItems: ["shrimp fried rice", "egg rolls", "white rice"]
+3. customerDrink: ["pepsi", "green tea", "beer"]
+4.  customerNumber: "121-683-4444"
+
+Methods:
+1. changeAddress: "1233 Logan St."
+2. addFoodItem: ["shrimo fried rice", "egg rolls", "white rice", "dumplings"]
+3. removeDrink: ["pepsi", "beer"]
+4.callCustomerAboutOrder: "contact customer via number "121-683-4444"
