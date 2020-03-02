@@ -1,13 +1,13 @@
-Class: Grill
+Class: Deliveries
 
 Attributes:
-1. currentCapacity (Integer)
-2. totalCapacity (Integer)
-3. hot (boolean)
-4. utensils(array)
+1. customerAddress (string)
+2. customerDrinks(array)
+3. foodItems (array)
+4. customerNumber(string)
 
 Methods:
-1. cleanGrill (adds room to total capacity)
-2. serveFood (subtracts currentCapacity from totalCapacity)
-3.burnFood (shows that the grill is hot which is a true statement)
-4.cleanSpatula (adds to the array of utensils)
+1. deliverFood (take food to Address)
+2. contactCustomer (contactCustomer using customerNumber in regards to order)
+3.switchDrink (replace current drink with new drink)
+4.clipReceipt (so customer can see foodItems in bag)
